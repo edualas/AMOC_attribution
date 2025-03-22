@@ -1,4 +1,2 @@
 # AMOC_attribution
-Scripts for analysis in paper with the preliminary title "Anthropogenic greenhouse gases emerging as a necessary cause for short-term AMOC weakenings".
-
-In order to produce the figures, the scripts should be run in the following order:
+This repository will contain the scripts for a publication on AMOC attribution once the paper has gone through peer review and the analysis and figures are final.
